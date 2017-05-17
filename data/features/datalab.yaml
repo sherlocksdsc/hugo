@@ -1,4 +1,4 @@
 weight: 6
 name: "Data Lab"
-icon: "fa fa-database"
+icon: "fa fa-bar-chart"
 description: "Transform digital data into meaningful information using a hybrid approach to data warehousing that includes both a top-down and bottom-up design."
