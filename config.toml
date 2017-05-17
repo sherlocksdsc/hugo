@@ -21,21 +21,9 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "Team"
     url  = "/blog/"
     weight = 2
-
-[[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 3
-
-[[menu.main]]
-    name = "Contact"
-    identifier = "contact"
-    url  = "/contact/"
-    weight = 4
 
 [params]
     viewMorePostLink = "/blog/"
@@ -77,6 +65,7 @@ paginate = 10
         <br>9500 Gilman Drive
         <br>Mail Code 0505
         <br>La Jolla, CA 92093-0505
+        <br><a href="mailto:sherlock@sdsc.edu">sherlock@sdsc.edu</a>
       </p>
       """
     latitude = "32.88425"
