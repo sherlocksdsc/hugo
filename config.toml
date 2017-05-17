@@ -1,4 +1,4 @@
-baseurl = "https://katekaya.github.io/sherlock/"
+baseurl = "https://sherlocksdsc.github.io/hugo/"
 title = "Sherlock Solved"
 theme = "hugo-universal-theme"
 publishDir = "docs"
