@@ -95,5 +95,14 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Sandeep Chandra Director   As the Director of the Health Cyberinfrastructure division at UC San Diego’s San Diego Supercomputer Center, Sandeep Chandra provides strategic vision, direction, management and implementation of concepts and methodologies for building Sherlock’s technology platforms. Sandeep brings strong knowledge of the healthcare ecosystem with deep focus in compliance including NIST, FISMA and HIPAA requirements. Sandeep leads Sherlock’s outreach and growth activities to expand the center&#39;s healthcare IT portfolio through partnerships with other academic and federal agencies including the University of California, NIH, and CMS.</description>
     </item>
     
+    <item>
+      <title>Sherlock Secure Cloud Solutions</title>
+      <link>https://sherlocksdsc.github.io/hugo/secure-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sherlocksdsc.github.io/hugo/secure-cloud/</guid>
+      <description>&amp;nbsp;</description>
+    </item>
+    
   </channel>
 </rss>

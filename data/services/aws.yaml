@@ -1,0 +1,5 @@
+weight: 4
+name: "Amazon Web Services"
+description: "Sherlock Cloud is collaborating with AWS to duplicate its managed services in the AWS Cloud to leverage scale and automation public Clouds offer. Sherlock Cloud understands that public Cloud offerings such as AWS and Azure do not offer end-to-end compliant services; customers are expected to buy compliant compute and storage services and build the necessary management services on top to meet compliance. Sherlock Cloud's approach is to address this gap by building the necessary services on top of the public Cloud resources, thereby offering customers end-to-end compliance."
+image: "img/services/aws.png"
+url: "https://aws.amazon.com"

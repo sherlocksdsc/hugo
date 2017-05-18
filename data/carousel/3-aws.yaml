@@ -1,0 +1,4 @@
+weight: 3
+title: "AWS, Here We Come"
+description: "<p>We are collaborating with Amazon Web Services (AWS) to duplicate our managed services in the AWS Cloud, resulting in a hybrid cloud set-up. Our customers will have the option to choose managed compliant services operating on premise at SDSC, in AWS, or a combination of the two.</p>"
+image: "amazon"

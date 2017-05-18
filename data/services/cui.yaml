@@ -1,0 +1,5 @@
+weight: 3
+name: "Controlled Unclassified Information (CUI)"
+description: "A more recent addition to the Sherlock Cloud portfolio is our CUI-compliant environment (NIST 800-171).  The federal government requires nonfederal entities to protect non-classified information that they receive from a federal entity; CUI must be protected when processed, stored, transmitted and used in nonfederal information systems.  As the CUI requirements provided in NIST 800-171 are based on the NIST 800-53 Moderate baseline (and FIPS 200), the Sherlock Team was able to seamlessly create an environment that provides the necessary safeguards."
+image: "img/services/cui.png"
+url: "https://www.archives.gov/cui"

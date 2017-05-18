@@ -1,0 +1,5 @@
+weight: 1
+name: "Federal Information Security Management Act (FISMA)"
+description: "Sherlock Cloud contains a FISMA-certified environment that has successfully passed yearly audits since its inception in 2008.  This environment was developed and is maintained in accordance with NIST 800-53 requirements, which govern system access, information control, and management processes. Sherlock Cloud is the largest FIMSA-certified cloud within the UC system."
+image: "img/services/fisma.png"
+url: "https://www.dhs.gov/fisma"

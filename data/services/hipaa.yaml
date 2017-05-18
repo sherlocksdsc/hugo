@@ -1,0 +1,5 @@
+weight: 2
+name: "Health Insurance Portability and Accountability Act (HIPAA)"
+description: "Leveraging our FISMA experience, we expanded our cloud offering to include a HIPAA-compliant environment.  This environment was built according to NIST 800-53 requirements to comprehensively address the administrative, physical, and technical safeguards required by HIPAA.  Sherlock Cloud’s HIPAA environment has successfully passed external and internal audits, thereby ensuring the security and privacy of Protected Health Information (PHI) and electronic Protected Health Information (ePHI). Sherlock Cloud is a multi-tenant cloud for researchers and businesses."
+image: "img/services/hipaa.png"
+url: "https://www.hhs.gov/hipaa/"
