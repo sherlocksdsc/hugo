@@ -1,6 +1,6 @@
 weight: 1
 title: "Secure Cloud Solutions"
-description: "<p>Sherlock Cloud is a secure, multi-tenant, scalable Cloud platform that provides end-to-end managed services to meet the computing and data management needs of academic, government and commercial partners. Sherlock Cloud is compliant with the Federal Information System Management Act (FISMA), Health Information Portability and Accountability Act (HIPAA) and NIST Controlled Unclassified Information (CUI) requirements.</p>
+description: "<p>Sherlock Cloud is a secure, multi-tenant, managed Cloud platform that meets the FISMA, HIPAA & NIST CUI requirements.</p>
 
 <p class=\"read-more\"><a href=\"secure-cloud\" class=\"btn btn-template-transparent-primary\">Learn More</a></p>"
 image: "cloud"

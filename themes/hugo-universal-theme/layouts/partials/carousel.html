@@ -9,9 +9,12 @@
                 {{ range sort .Site.Data.carousel "weight" }}
                 <div class="item">
                     <div class="row">
-                        <div class="col-sm-12 right">
-                            <h1>{{ .title }} <span class="fa fa-{{ .image }}"></span></h1>
+                        <div class="col-sm-8 right">
+                            <h1>{{ .title }}</h1>
                             {{ .description | safeHTML }}
+                    	</div>
+                        <div class="col-sm-4">
+                            <span class="fa fa-{{ .image }}"></span>
                     	</div>
                     </div>
                 </div>
