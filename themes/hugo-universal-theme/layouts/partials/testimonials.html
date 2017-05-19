@@ -13,31 +13,21 @@
                   {{ .Site.Params.testimonials.subtitle | markdownify }}
                 </p>
 
-                <!-- *** TESTIMONIALS CAROUSEL *** -->
+                {{ range .Site.Data.testimonials }}
+                <div class="col-md-12" style="margin-bottom: 2em; background-color: white; padding: 1em;">
+			<div class="col-md-3">
+				<p><strong>{{ .name }}</strong><br/>
+				<em>{{ .position }}</em></p>
+				<img class="icon" alt="" src="{{ .avatar | absURL }}"/>
+			</div>
+			<div class="col-md-9">
+				<p><i class="fa fa-quote-left"></i>
+				{{ .text | markdownify }}
+				<i class="fa fa-quote-right"></i></p>
+			</div>
+		</div>
+                {{ end }}
 
-                <ul class="owl-carousel testimonials same-height-row">
-                    {{ range .Site.Data.testimonials }}
-                    <li class="item">
-                        <div class="testimonial same-height-always">
-                            <div class="text">
-                                <p>{{ .text | markdownify }}</p>
-                            </div>
-                            <div class="bottom" style="height: 80px">
-                                <div class="icon"><i class="fa fa-quote-left"></i>
-                                </div>
-                                <div class="name-picture">
-                                    <h5>{{ .name }}</h5>
-                                    <p>{{ .position }}</p>
-                                    <img class="" alt="" src="{{ .avatar | absURL }}">
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    {{ end }}
-                </ul>
-                <!-- /.owl-carousel -->
-
-                <!-- *** TESTIMONIALS CAROUSEL END *** -->
             </div>
 
         </div>
