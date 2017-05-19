@@ -99,7 +99,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Sherlock at Work"
-    subtitle = "Sherlock Cloud was established to provide managed compliant services to meet the secure computing and data management needs of our academic, government, and industry partners. Our compliance involves managing the entire software and hardware platform and the necessary management processes (end-to-end compliant services). Not only is our comprehensive compliance portfolio a proven resource, but we strongly believe our intangibles, namely our superb team, experience, and knowledge provide our partners with an edge. We work together with our partners to jointly solve problems and create an environment that not only meets, but surpasses, their needs."
+    subtitle = "Sherlock Cloud was established to provide managed compliant services to meet the secure computing and data management needs of our academic, government, and industry customers. Our compliance involves managing the entire software and hardware platform and the necessary management processes (end-to-end compliant services). Not only is our comprehensive compliance portfolio a proven resource, but we strongly believe our intangibles, namely our superb team, experience, and knowledge provide our customers with an edge. We work together with our customers to jointly solve problems and create an environment that not only meets, but surpasses, their needs."
 
 [params.see_more]
     enable = true
