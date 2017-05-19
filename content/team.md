@@ -9,14 +9,14 @@ description = "Leadership Team"
 	  <center>
              <img src="../img/team/chandra.jpg" alt="Sandeep Chandra" style="margin-bottom: 6px;">
             <h3>Sandeep Chandra</h3>
-            <h4>Director</h4>
+            <h4>Executive Director</h4>
 	  </center>
             <br>
             <p>
-As the Director of the Health Cyberinfrastructure division at UC San Diego’s San Diego Supercomputer Center, Sandeep Chandra provides strategic vision, direction, management and implementation of concepts and methodologies for building Sherlock’s technology platforms. Sandeep brings strong knowledge of the healthcare ecosystem with deep focus in compliance including NIST, FISMA and HIPAA requirements. Sandeep leads Sherlock’s outreach and growth activities to expand the center's healthcare IT portfolio through partnerships with other academic and federal agencies including the University of California, NIH, and CMS. Sandeep has over 15 years of experience providing direct policy, business, operations, and technology advice to the leadership at federal, state and academic institutions. Previously, Sandeep served as a technical project manager and co-principal investigator for the TEAM Network initiative in SDSC’s Advanced Cyberinfrastructure Development Group where he architected and deployed one of the first multidisciplinary IT system for a global biodiversity and ecosystem service monitoring network inclusive of information systems, mobile technology, environmental sensors, databases and analytical software.
+As the Director of the Health Cyberinfrastructure division at UC San Diego’s San Diego Supercomputer Center, Sandeep Chandra provides strategic vision, direction, management and implementation of concepts and methodologies for building Sherlock’s technology platforms. Sandeep brings strong knowledge of the healthcare ecosystem with deep focus in compliance including NIST, FISMA and HIPAA requirements. Sandeep has over 15 years of experience providing direct policy, business, operations, and technology advice to the leadership at federal, state and academic institutions. Previously, Sandeep served as the co-principal investigator for the TEAM Network initiative in SDSC’s Advanced Cyberinfrastructure Development Group where he architected and deployed one of the first multidisciplinary IT system for a global biodiversity and ecosystem service monitoring network inclusive of information systems, mobile technology, environmental sensors, databases and analytical software.
             </p>
             <p>
-Sandeep holds as MS in Computer Science from North Carolina State University, as well as a BS in Computer Science from India.
+Sandeep holds as MS in Computer Science from North Carolina State University.
             </p>
         </div>
         <div class="col-md-4">
