@@ -59,8 +59,7 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Sandeep Chandra 
-        <br>Executive Director, Sherlock Cloud</strong>
+    address = """<p><strong>Sherlock Cloud</strong>
         <br>San Diego Supercomputer Center (SDSC)
         <br>University of California, San Diego
         <br>9500 Gilman Drive
