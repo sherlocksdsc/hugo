@@ -1,4 +1,4 @@
 weight: 6
 name: "Data Lab"
 icon: "fa fa-bar-chart"
-description: "Transform digital data into meaningful information using a hybrid approach to data warehousing that includes both a top-down and bottom-up design."
+description: "Sherlock Data Lab helps transform digital data into meaningful information using a hybrid approach to data warehousing that includes both a top-down and bottom-up design. The framework provides data integration capabilities, allowing data to be captured, rationalized, homogenized, and managed using best practices and standards. This includes dynamic mappings, transformations, and master data management techniques utilizing established governance methodologies, with specific focus on data quality and metadata management."
