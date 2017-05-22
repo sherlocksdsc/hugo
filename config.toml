@@ -22,7 +22,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Pricing"
-    url  = "/pdf/sherlock_cloud_cost-2017.pdf"
+    url  = "/pdf/sherlock_cloud_pricing-2017.pdf"
     weight = 2
 
 [[menu.main]]
