@@ -7,64 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © Sherlock Solved. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="https://sherlocksdsc.github.io/hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Go</title>
-      <link>https://sherlocksdsc.github.io/hugo/tags/go/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>https://sherlocksdsc.github.io/hugo/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://sherlocksdsc.github.io/hugo/tags/golang/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://sherlocksdsc.github.io/hugo/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://sherlocksdsc.github.io/hugo/tags/hugo/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://sherlocksdsc.github.io/hugo/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>https://sherlocksdsc.github.io/hugo/tags/ipsum/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>https://sherlocksdsc.github.io/hugo/tags/ipsum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://sherlocksdsc.github.io/hugo/tags/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://sherlocksdsc.github.io/hugo/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>https://sherlocksdsc.github.io/hugo/tags/theme/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://sherlocksdsc.github.io/hugo/tags/theme/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
