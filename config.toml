@@ -1,5 +1,5 @@
 baseurl = "http://sherlock.sdsc.edu/"
-title = "Sherlock Solved"
+title = "Sherlock Cloud"
 theme = "hugo-universal-theme"
 publishDir = "docs"
 languageCode = "en-us"

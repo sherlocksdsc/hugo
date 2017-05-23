@@ -11,12 +11,12 @@
   </url>
   
   <url>
-    <loc>http://sherlock.sdsc.edu/secure-cloud/</loc>
+    <loc>http://sherlock.sdsc.edu/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sherlock.sdsc.edu/</loc>
-    <priority>0</priority>
+    <loc>http://sherlock.sdsc.edu/secure-cloud/</loc>
   </url>
   
   <url>
