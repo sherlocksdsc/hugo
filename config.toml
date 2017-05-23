@@ -58,7 +58,7 @@ paginate = 10
     email = "your@email.com"
 
     about_us = "<p>Sherlock, an offering of SDSC's Health Cyberinfrastructure Division, is a Center of Excellence focused on managed information technology, compliance, and data services for academia and government that spans many IT disciplines, including compliant cloud hosting, cloud security, and data management.</p>"
-    copyright = "Copyright © Sherlock Solved. All Rights Reserved."
+    copyright = "Copyright &copy; Sherlock Cloud. All Rights Reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
