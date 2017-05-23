@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sherlocksdsc.github.io/hugo/categories/</loc>
+    <loc>http://sherlock.sdsc.edu/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sherlocksdsc.github.io/hugo/team/</loc>
+    <loc>http://sherlock.sdsc.edu/team/</loc>
   </url>
   
   <url>
-    <loc>https://sherlocksdsc.github.io/hugo/secure-cloud/</loc>
+    <loc>http://sherlock.sdsc.edu/secure-cloud/</loc>
   </url>
   
   <url>
-    <loc>https://sherlocksdsc.github.io/hugo/</loc>
+    <loc>http://sherlock.sdsc.edu/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sherlocksdsc.github.io/hugo/tags/</loc>
+    <loc>http://sherlock.sdsc.edu/tags/</loc>
     <priority>0</priority>
   </url>
   
